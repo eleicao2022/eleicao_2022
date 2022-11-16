@@ -1,0 +1,15 @@
+{
+    "name": "eleicoes2022",
+    "version": "1.0.0",
+    "description": "Scripts para análise votos por modelo de urnas das Eleições brasileiras de 2022",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ./src/gerar_sql_urnas.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "event-stream": "^4.0.1"
+    }
+}
