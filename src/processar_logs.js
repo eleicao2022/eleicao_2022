@@ -184,7 +184,6 @@ async function main() {
                                 toSQL(urnas)
                             );
 
-                            urnas = [];
                             console.log("Done.");
 
                             ok();
