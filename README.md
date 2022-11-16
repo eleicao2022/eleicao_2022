@@ -20,3 +20,6 @@ Importe para seu banco de dados SQL preferido os arquivos `schema.sql`, `urnas.s
 
 
 `eleicao.7z` - Contém o banco de dados sqlite com os dados processados.
+
+# Contribuição:
+Abra um Pull Request com melhorias, adições ou análises de dados extraidos.
