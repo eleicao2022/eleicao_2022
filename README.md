@@ -18,8 +18,13 @@ Docker e DockerCompose instalados
 Para gerar Banco de dados sqlite execute o comando `./scripts/importar_sqlite.sh`
 Importe para seu banco de dados SQL preferido os arquivos `schema.sql`, `urnas.sql`, `index.sql` dentro da pasta `sql`
 
-
 `eleicao.7z` - Contém o banco de dados sqlite com os dados processados.
 
 # Contribuição:
+
 Abra um Pull Request com melhorias, adições ou análises de dados extraidos.
+
+## Lista de nomes listados em logs:
+
+Nenhuma ocorrência em urnas modelo UE2020
+![alt text](assets/log_nomes.jpg "Lista de nomes achados nos logs")
