@@ -26,5 +26,5 @@ Abra um Pull Request com melhorias, adições ou análises de dados extraidos.
 
 ## Lista de nomes listados em logs:
 
-Nenhuma ocorrência em urnas modelo UE2020
+Nenhuma ocorrência em urnas modelo UE2020. [Lista completa de nomes](assets/lista_nomes.txt).
 ![alt text](assets/log_nomes.jpg "Lista de nomes achados nos logs")
