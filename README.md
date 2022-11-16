@@ -17,3 +17,6 @@ Docker e DockerCompose instalados
 
 Para gerar Banco de dados sqlite execute o comando `./scripts/importar_sqlite.sh`
 Importe para seu banco de dados SQL preferido os arquivos `schema.sql`, `urnas.sql`, `index.sql` dentro da pasta `sql`
+
+
+`eleicao.7z` - Contém o banco de dados sqlite com os dados processados.
